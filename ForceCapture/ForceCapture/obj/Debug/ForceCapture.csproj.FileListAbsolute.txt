@@ -1,0 +1,8 @@
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\bin\Debug\ForceCapture.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\bin\Debug\ForceCapture.pdb
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.csprojResolveAssemblyReference.cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.Form1.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.Properties.Resources.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.csproj.GenerateResource.Cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\ForceCapture\ForceCapture\obj\Debug\ForceCapture.pdb
