@@ -1,0 +1,2 @@
+# ForceCapture
+Captures ur screen:)
