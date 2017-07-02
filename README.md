@@ -1,9 +1,9 @@
 # ForceCapture
 Captures ur screen:)
 
-Donate some money:)
+Donations(not needed lmao):
 
-Paypal: muttpaypal@gmail.com
+Paypal: Fuck paypal
 
 Bitcoin:
 1FWCbYvw2hBx5VJEmrCfQnRzD2CSyEh3aK
